@@ -1,0 +1,26 @@
+body{
+	background-color:#18191A;
+	margin:0;
+	padding:0;
+}
+
+p{
+	color:black;
+	text-align: left;
+	justify-content: center;
+	vertical-align: middle;
+	margin:50px;
+	font-size:20px;
+}
+
+p span{
+	color: white;
+}
+
+h1{
+	font-style: italic;
+	text-align: justify;
+	justify-content: center;
+	margin:50px;
+	vertical-align: middle;
+}

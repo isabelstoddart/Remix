@@ -1,0 +1,40 @@
+body{
+	margin:0;
+	padding:0;
+}
+
+@font-face{
+	src: url(Harsh.ttf);
+	font-family: Harsh;
+}  
+
+@font-face{
+	src: url(Warm.otf);
+	font-family: Warm;
+} 
+
+p{
+	text-align: left;
+	justify-content: center;
+	vertical-align: middle;
+	margin:50px;
+	font-size:20px;
+}
+
+p span1{
+	font-family: Harsh;
+	font-size: 30px;
+}
+
+p span2 {
+	font-family: Warm;
+	font-size: 20px;
+}
+
+h1{
+	font-style: italic;
+	text-align: justify;
+	justify-content: center;
+	margin:50px;
+	vertical-align: middle;
+}
