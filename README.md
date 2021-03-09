@@ -1,6 +1,6 @@
 # Remix Typography Project
-## [Live Project](https://isabelstoddart.github.io/Remix/)
 ## A Project for Data as Material taken at Parsons School of Design
+### [Live Project](https://isabelstoddart.github.io/Remix/)
 
 This project consisted of 15 changes to the poem Why She Stayed by Nikita Gill. The changes fell within 5 themes: Opposites, Space, Color, Font, and Accessibility. The original structure and spacing of the poem is used and kept consistent for each iteration of the project. 
 
