@@ -1,4 +1,23 @@
 body{
 	margin:0;
 	padding:0;
+	background-image: url(hands.png);
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+p{
+	text-align: left;
+	justify-content: center;
+	vertical-align: middle;
+	margin:50px;
+	font-size:20px;;
+}
+
+h1{
+	font-style: italic;
+	text-align: justify;
+	justify-content: center;
+	margin:50px;
+	vertical-align: middle;
 }
