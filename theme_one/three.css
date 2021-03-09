@@ -1,4 +1,29 @@
 body{
 	margin:0;
 	padding:0;
+	background-color: #fbfbf8;
+}
+
+p{
+	text-align: left;
+	justify-content: center;
+	vertical-align: middle;
+	margin:50px;
+	font-size:20px;
+}
+
+h1{
+	font-style: italic;
+	text-align: justify;
+	justify-content: center;
+	margin:50px;
+	vertical-align: middle;
+}
+
+p span{
+	text-decoration: line-through;
+}
+
+h1 span{
+	text-decoration: line-through;
 }
