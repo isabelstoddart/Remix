@@ -1,4 +1,25 @@
 body{
 	margin:0;
 	padding:0;
+	background-color: #fbfbf8;
+}
+
+p{
+	text-align: left;
+	justify-content: center;
+	vertical-align: middle;
+	margin:50px;
+	font-size:20px;
+}
+
+p span{
+	color: #F5f5f5
+}
+
+h1{
+	font-style: italic;
+	text-align: justify;
+	justify-content: center;
+	margin:50px;
+	vertical-align: middle;
 }
