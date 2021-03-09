@@ -4,6 +4,7 @@ body{
 	text-align: left;
 	margin:0;
 	padding:0;
+	background-color: #fbfbf8;
 }
 p{
 	text-align: left;
@@ -35,4 +36,3 @@ h1{
 	margin:50px;
 	vertical-align: middle;
 }
-
