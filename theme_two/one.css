@@ -1,6 +1,7 @@
 body{
 	margin:0;
 	padding:0;
+	background-color: #fbfbf8;
 }
 
 p{
@@ -11,8 +12,9 @@ p{
 	font-size:20px;
 }
 
-p span{
-	letter-spacing: 10px;
+p span1{
+	word-spacing: 1000px;
+	
 }
 
 h1{
@@ -22,5 +24,3 @@ h1{
 	margin:50px;
 	vertical-align: middle;
 }
-
-
